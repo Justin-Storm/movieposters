@@ -35,7 +35,7 @@ const vue_app = Vue.createApp({
             movies: [],
             // /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
             title: "IMDB Justin Storm's Top 8 Movies",
-            owner: 'Justin',
+            owner: 'Justin Storm',
             gitHub: 'https://github.com/Justin-Storm/movieposters',
          
       }
