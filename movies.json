@@ -68,5 +68,44 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Interstellar",
+            "iscore": 8.7,
+            "rating": "PG-13",
+            "runtime": 169,
+            "country": "USA",
+            "posters": ["img/interstellar.jpg", "img/interstellar_2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0816692/",
+            "website": "https://www.legendary.com/film/interstellar/",
+            "likes": 2156,
+            "dislikes": 5,
+            "posterindex": 0
+      },
+      {
+            "title": "Ready Player One",
+            "iscore": 7.4,
+            "rating": "PG-13",
+            "runtime": 140,
+            "country": "USA",
+            "posters": ["img/readyplayerone.jpg", "img/readyplayerone_2.avif"],
+            "imdb": "https://www.imdb.com/title/tt1677720/",
+            "website": "https://www.warnerbros.com/movies/ready-player-one",
+            "likes": 482,
+            "dislikes": 158,
+            "posterindex": 0
+      },
+      {
+            "title": "Gran Turismo",
+            "iscore": 7.1,
+            "rating": "PG-13",
+            "runtime": 144,
+            "country": "USA",
+            "posters": ["img/granturismo.jpg", "img/granturismo_2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt4495098/",
+            "website": "https://www.rottentomatoes.com/m/gran_turismo_based_on_a_true_story",
+            "likes": 1547,
+            "dislikes": 235,
+            "posterindex": 0
       }
 ]
